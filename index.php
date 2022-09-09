@@ -7,6 +7,6 @@
 
 <body>
  <h1>Hello World</h1>
-
+<p>lorem ipsum gatau mau ngetik apa wkwk bingung ini kok prettier nya ga bisa dipake di php</p>
 </body>
 </html>
